@@ -1,0 +1,3 @@
+"Data","AUC","Accuracy"
+"Original (with 0s)",0.846432835820896,0.772135416666667
+"Cleaned (imputed)",0.864,0.783854166666667
